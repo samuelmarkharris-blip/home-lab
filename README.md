@@ -1,70 +1,76 @@
-# home-lab
-My personal constantly evolving Home Lab. Built for learning, designing, and creating. Focused on helping me gain proficiency specifically in Windows and Linux Administration, Server Management, Virtualization, Active Directory, 3D printing, 3D modeling, Electronics and prototyping, Local AI models, and anything else I decide to explore. 
+Home Lab
 
+My personal, constantly evolving Home Lab. Built for learning, designing, and creating. Focused on helping me develop proficiency in Windows and Linux administration, server management, virtualization, Active Directory, 3D printing, 3D modeling, electronics and prototyping, local AI models, and anything else I decide to explore.
 
-
-
-This is a constantly evolving Home Lab. I will document both successful
-projects and problems I face during development.
+This is a constantly evolving Home Lab. I will document both successful projects and problems I face during development.
 
 ---
 
-## Current Hardware
+Current Hardware
 
-- PC
-Processor- AMD Ryzen 5 5600GT with Radeon Graphics
-Ram- 32GB
-Graphics Card- AMD Radeon RX 7700 XT 12GB
-Storage- 1TB
+PC
 
-- Two Monitors
+- Processor: AMD Ryzen 5 5600GT with Radeon Graphics
+- RAM: 32GB
+- Graphics Card: AMD Radeon RX 7700 XT 12GB
+- Storage: 1TB
 
+Other Hardware
+
+- Two monitors
 - Raspberry Pi 3
-
 - Anycubic Kobra 2 Neo
-
-- Fire HD 7th Gen 
-
+- Fire HD 7th Gen
 - iPhone SE 2nd Gen
 
 ---
 
-## Current Projects
+Current Projects
 
-### Private AI Lab
-Building a fully private fully personal Local AI system to feed both my own personal research documents into as well as studies and research documents I trust. I will then have the AI pull from these documents to stay local and to only give me information from trustworthy resources. System will run on PC but displayed on tablet.
+Private AI Lab
 
-**Status:** In progress
+Building a fully private, locally hosted AI system using my own personal research documents, as well as studies and research from sources I know well and trust.
 
-### Raspberry Pi
-Either as a 
-PI Hole/ Ad Blocker
-Home assistant/Lab dashboard
-Personal VPN
+The goal is for the AI to pull information from these documents while keeping the system and my data and everything completely local. The system will run on my PC and be accessible through my tablet.
 
+Status: In Progress
 
-**Status:** Not Started 
+Raspberry Pi 3
 
-### Anycubic Kobra 2 Neo
-As my main prototyping machine
-To optimize my home lab and provide physical upgrades and storage
+Experimenting with different uses for my Raspberry Pi 3 to find the best use including:
 
-**Status:** Constant
+- PI Hole/Ad Blocker
+- Home Lab dashboard
+- Personal VPN
 
-### Windows/Linux lab with virtual machines using VMware to learn-
-Active Directory
-Systems Administration 
-Troubleshooting
-Server Management
+Status: Not Started
 
-**Status:** In Progress
+Anycubic Kobra 2 Neo
 
-## Previous projects
+Using my Anycubic Kobra 2 Neo as my main prototyping machine for my own personal designs and also to optimize my Home Lab by creating more storage, wall mounts, and anything else I need.
 
+Status: Ongoing
 
-- Personal media server
-- Wii homebrew
-- Wii U homebrew
-- Xbox 360 homebrew
+Windows & Linux Virtualization Lab
 
-These previous projects taught me the absolute fundamentals of research, troubleshooting, systems thinking, and how to learn. 
+Building Windows and Linux virtual machines using VMware to learn and develop experience in:
+
+- Active Directory
+- Systems administration
+- Troubleshooting
+- Server management
+- Virtualization
+
+Status: In Progress
+
+---
+
+Previous Projects
+
+- Personal media server 2023
+- Wii homebrew 2022
+- Wii U homebrew 2022
+- Xbox 360 homebrew 2024
+- Remote file storage for Iphone 2024
+
+These previous projects taught me the fundamentals of research, troubleshooting, systems thinking, experimentation, and self motivated learning.
