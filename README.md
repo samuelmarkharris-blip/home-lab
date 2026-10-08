@@ -39,7 +39,7 @@ Raspberry Pi 3
 
 Experimenting with different uses for my Raspberry Pi 3 to find the best use including:
 
-- PI Hole/Ad Blocker
+- Pi Hole/Ad Blocker
 - Home Lab dashboard
 - Personal VPN
 
@@ -51,26 +51,57 @@ Using my Anycubic Kobra 2 Neo as my main prototyping machine for my own personal
 
 Status: Ongoing
 
-Windows & Linux Virtualization Lab
+Active Directory Lab
 
-Building Windows and Linux virtual machines using VMware to learn and develop experience in:
+Building an active directory fully controlled environment using my personal Windows virtual machines to learn how regular business networks are managed.
 
-- Active Directory
-- Systems administration
-- Troubleshooting
-- Server management
-- Virtualization
 
-Status: In Progress
+- Windows Server
+- Domain controllers
+- User accounts
+- Security groups
+- Group Policy
+- DNS
+- File permissions
+- Joining Windows clients to a domain
+
+Status: Planned
+
+Networking Lab
+
+Using my existing PC, Raspberry Pi, and virtual machines to learn networking and test out different issues to resolve and learn from. 
+
+
+- TCP/IP
+- DNS
+- DHCP
+- Static IPs
+- Network troubleshooting
+- VPNs
+- Remote access
+- Network shares
+
+Status: Planned
+
+Software Development & Automation
+
+Building small programs and scripts to solve problems I encounter in my Home Lab while learning software development.
+
+
+- Python
+- PowerShell
+- APIs
+- Automation
+- Git/GitHub
+- System management tools
+
+Status: Planned
 
 ---
 
 Previous Projects
 
 - Personal media server 2023
-- Wii homebrew 2022
-- Wii U homebrew 2022
-- Xbox 360 homebrew 2024
 - Remote file storage for Iphone 2024
 
 These previous projects taught me the fundamentals of research, troubleshooting, systems thinking, experimentation, and self motivated learning.
